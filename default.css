@@ -88,12 +88,12 @@ a {
 
 .btn{
       --btn-bg: linear-gradient(135deg, #ff9ac2, #ff7fb3 45%, #ff6aa6);
-      appearance:none;
-      border:none;
+      appearance:none; 
+      border:2px solid rgb(209, 146, 157);
       padding: 12px 22px;
       border-radius: 999px;
       background: var(--btn-bg);
-      color: var(--white);
+      color: black;
       font-weight:700;
       letter-spacing:0.3px;
       cursor:pointer;
